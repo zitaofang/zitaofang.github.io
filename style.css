@@ -1,0 +1,11 @@
+p {
+    background-color: green;
+}
+
+img:hover {
+    width: 30em;
+}
+
+body {
+    background-color: #ffcc99;
+}
